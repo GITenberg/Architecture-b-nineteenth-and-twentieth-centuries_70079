@@ -1,0 +1,37 @@
+_repo: Architecture-b-nineteenth-and-twentieth-centuries_70079
+_version: 0.0.1
+alternative_title: 'Architecture :  19th and 20th centuries'
+creator:
+  author:
+    agent_name: Hitchcock, Henry-Russell
+    alias: Hitchcock, H. R. (Henry Russell)
+    birthdate: 1903
+    deathdate: 1987
+    gutenberg_agent_id: '55582'
+    url: http://www.gutenberg.org/2009/agents/55582
+    wikipedia: https://en.wikipedia.org/wiki/Henry-Russell_Hitchcock
+description: ''
+gutenberg_issued: '2023-02-20'
+identifiers:
+  gutenberg: '70079'
+  lccn: '63005619'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015011969469
+pgterms:marc905: 20210125042705hitchcock
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Tim Lindell, Barry Abrahamsen, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bPenguin Books Inc., $c1963.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Pelican history of art, Z15
+subjects:
+- !lcsh 'Architecture, Modern -- 19th century'
+- !lcsh 'Architecture, Modern -- 20th century'
+- !lcc 'NA'
+- GITenberg
+title: 'Architecture : $b nineteenth and twentieth centuries'
+url: http://www.gutenberg.org/ebooks/70079
